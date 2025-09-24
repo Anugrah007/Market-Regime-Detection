@@ -1,4 +1,4 @@
-# Market Regime Detection
+# Market Regime Detection Using ML based approaches
 
 [![View in nbviewer](https://img.shields.io/badge/Jupyter-nbviewer-orange)](https://nbviewer.org/github/Anugrah007/Market-Regime-Detection/blob/main/marketRegime.ipynb)
 
